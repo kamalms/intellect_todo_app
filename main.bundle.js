@@ -942,7 +942,7 @@ module.exports = "\n<div class=\"scrollable\">\n\n\n\n<table class=\"table\">\n 
 /***/ 404:
 /***/ (function(module, exports) {
 
-module.exports = "<app-todo-list\n    [todos]=\"todos\"\n    \n  ></app-todo-list>"
+module.exports = "<app-todo-list\r\n    [todos]=\"todos\"\r\n    \r\n  ></app-todo-list>"
 
 /***/ }),
 
